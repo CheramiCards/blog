@@ -1,0 +1,26 @@
+title: Cherami Cards Blog
+description: Make a card or skip fun doing it
+
+url: http://blog.cherami.cards
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: redcarpet
+highlighter: pygments
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: cherami-master
+   email: contact@cherami.com
+
+google_analytics: "UA-73002253-1"
