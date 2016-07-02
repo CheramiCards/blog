@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Show Your Love with a Cherami Card
-date: 2016-06-03T00:00:00.000Z
+date: 2016-06-03
 published: true
 ---
 ![pure love cherami catds](http://blog.cherami.cards/assets/img/pure_love_charmi_cards.png)
