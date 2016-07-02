@@ -1265,12 +1265,4 @@ img[src*='#center'] {
   .header .container {
     max-width: 450px;
   }
-  .header h1 {
-    padding-left: 11rem;
-  }
-}
-@media only screen and (min-width: 485px) {
-  .header h1 {
-    padding-left: 7rem;
-  }
 }
