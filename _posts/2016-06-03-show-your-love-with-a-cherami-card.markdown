@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Show Your Love with a Cherami Card"
-date:   2016-06-03
+title: Show Your Love with a Cherami Card
+date: {}
+published: true
 ---
 
-#### Show Your Love with a Cherami Card
+![pure love cherami catds]({{site.baseurl}}/http://blog.cherami.cards/assets/img/pure_love_charmi_cards.png)
 
 How do you show affection to the people you care about - your partner, child, friend or family member? Do you buy them expensive gifts? Treat them to fancy dinners? Or, are you the type of person who knows no expensive gift can make up for the time not spent with someone you love, and you feel guilty about not being able to do more?
 
