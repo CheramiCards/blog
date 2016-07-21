@@ -8,7 +8,7 @@ So, you decided to stick around and give love ecards a chance. Wise decision. As
 
 Let’s learn how Cherami’s Love Cards Maker is used, then. Follow along this really easy-to-grasp tutorial and you’ll be making sweet love cards in no time. 
 
- * Go to https://cherami.cards/love and get acquainted with the tool’s layout. You’ll see there’s a wheel-shaped element on the left with different design options, and that’s basically your main dashboard that you’ll be using to design a card. 
+ * Go to [Cherami Cards](https://cherami.cards/love)  and get acquainted with the tool’s layout. You’ll see there’s a wheel-shaped element on the left with different design options, and that’s basically your main dashboard that you’ll be using to design a card. 
 
 ![pure love cherami catds](http://blog.cherami.cards/assets/img/step/1.png#center)
 
