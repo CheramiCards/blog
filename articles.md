@@ -12,6 +12,7 @@ title: Cherami articles
       	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       	<p class="description">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
       </li>
+      <a class="next button__outline" href="{{ post.url }}">Read more</a>
     {% endfor %}
   </ul>
 </div>
