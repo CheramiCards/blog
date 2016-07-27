@@ -9,7 +9,7 @@ title: About Cherami Cards
 	<p class="intro">Make a card!</p>
 	<p>Every individual thrives to express themselves; that’s why we at Cherami.Cards allow you to express yourself.</p>
 	<h2>Features</h2>
-	<ul class="marginleft40"> 
+	<ul style="margin-left: 35%;"> 
 		<li>Choose Shapes</li>
 		<li>Include Borders</li>
 		<li>Share Cards with your friends</li>

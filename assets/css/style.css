@@ -1266,11 +1266,3 @@ img[src*='#center'] {
     max-width: 450px;
   }
 }
-.marginleft40 {
-  margin-left: 40% !important;
-}
-@media only screen and (min-width: 420px) {
-  .marginleft40 {
-    margin-left: 10% !important;
-  }
-}
