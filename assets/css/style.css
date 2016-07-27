@@ -1266,9 +1266,3 @@ img[src*='#center'] {
     max-width: 450px;
   }
 }
-.pull-left {
-  float: left;
-}
-.margin-left-40 {
-  margin-left: 40%;
-}
