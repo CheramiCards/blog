@@ -30,3 +30,11 @@
 
 // If IE support is needed you can add them here or create another stylesheet for specific IE fixes
 
+.marginleft40 {
+  margin-left: 40% !important;
+}
+@media only screen and (min-width: 420px) {
+  .marginleft40 {
+    margin-left: 10% !important;
+  }
+}
