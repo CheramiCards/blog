@@ -4,7 +4,6 @@ title: Awake the Designer in You: More Design Tips for Working with Cherami
 date: 2016-08-16
 published: true
 ---
-
 Assuming you had enough time to read our [step-by-step guide to using Cherami](http://blog.cherami.cards/blog/Step-By-Step-Guide-to-Using-Cherami-Love-Cards-Maker) and play with the app, we’re ready to move on to more advanced tips that will push your romance forward better than any Cyrano de Bergerac could. 
 
 You got down the basics: how to select a love card shape, background, border, graphic, how to upload an image and how to write your heartfelt note. Though not all of these steps are necessary, using most of them will make your ecard look more elaborate and give the impression that some serious effort and lots of time were put into crafting it. However, if we can personify Cherami for a second, we’ll say that it hides a few more interesting aces up its sleeves. For example, we only brushed upon borders, backgrounds, graphics and font in our initial tutorial. Now let’s see how to work with these elements with more skill and precision.
