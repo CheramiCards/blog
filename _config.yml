@@ -1,6 +1,4 @@
 title: Cherami Blog
-
-
 url: http://blog.cherami.cards
 baseurl: ""
 paginate_path: "blog/page:num/"
