@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Awake the Designer in You: More Design Tips for Working with Cherami
+title: Awake the Designer in You More Design Tips for Working with Cherami
 date: 2016-08-16
 published: true
 ---
