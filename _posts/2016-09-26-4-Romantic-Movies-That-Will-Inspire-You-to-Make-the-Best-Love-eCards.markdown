@@ -9,7 +9,7 @@ published: true
 
 Some of the most popular and cited romantic movies ever are Pretty Woman, Sleepless in Seattle, Say Anything, French Kiss, Notting Hill, The Notebook, Ghost, as well as Breakfast at Tiffany’s, Casablanca, Love Story, and some other movies of the previous decades. And though we agree that these rightfully belong to the very top of the romantic movie genre, today we’ll talk about four movies that do not so commonly make it in “the best of romance films” articles. 
 
-So, why do we choose to talk about these less known flicks, if we mean to inspire you to make the BEST love ecards on the planet? The reason is quite simple. Cards and letters have a very special role in each of the following movies, so today we’ll use these fun examples to discuss the importance of the written word on paper, and how it can inspire love and bring people together.
+So, why do we choose to talk about these less known flicks, if we mean to inspire you to make the BEST [love ecards](https://cherami.cards/love) on the planet? The reason is quite simple. Cards and letters have a very special role in each of the following movies, so today we’ll use these fun examples to discuss the importance of the written word on paper, and how it can inspire love and bring people together.
 
 Mamma Mia!
 
