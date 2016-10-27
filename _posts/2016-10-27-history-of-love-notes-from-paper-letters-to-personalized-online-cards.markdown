@@ -1,6 +1,6 @@
 ---
 layout: post
-title: History of Love Notes: From Paper Letters to Personalized Online Cards
+title: History of Love Notes-From Paper Letters to Personalized Online Cards
 date: 2016-10-27
 published: true
 ---
