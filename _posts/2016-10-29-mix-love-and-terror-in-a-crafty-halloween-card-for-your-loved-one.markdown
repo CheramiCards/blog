@@ -5,7 +5,7 @@ date: 2016-10-29
 published: true
 ---
 
-![cherami bottle](http://blog.cherami.cards/assets/img/cherami-halloween.png#center)
+![cherami bottle](http://blog.cherami.cards/assets/img/halloween/cherami-halloween.png#center)
 
 According to [certain polls in the US](http://www.theharrispoll.com/health-and-life/Americans-Weigh-In-on-Their-Favorite-Holiday.html){:target="_blank"}, Halloween seems to be at the very top of the Americans’ favorite holidays list. For kids it might even be number one, due to all the candy they get to collect while trick or treating. Halloween is certainly the most unusual holiday because of all the whacky costumes people get to wear on October 31. You can look as silly as you want on that day which, combined with all the candy we mentioned, certainly makes it a day to enjoy.
 
