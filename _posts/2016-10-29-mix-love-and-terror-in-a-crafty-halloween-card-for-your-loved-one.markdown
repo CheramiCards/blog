@@ -19,29 +19,35 @@ Apart from having fun choosing a costume, competing to carve the best jack-o’-
 So, if you would like to make someone’s Halloween start with a quickening of the heart and a smile, here’s what you should do:
 
 
-Step one. Go to [Cherami Cards](https://cherami.cards/love){:target="_blank"}.
+__Step one.__ 
+Go to [Cherami Cards](https://cherami.cards/love){:target="_blank"}.
 
 
-Step two. Click on any of the shapes you see on the left. The one you choose will be your Halloween card’s shape.
+__Step two.__ 
+Click on any of the shapes you see on the left. The one you choose will be your Halloween card’s shape.
 
 ![cherami bottle](http://blog.cherami.cards/assets/img/halloween/cherami-halloween-step.png#center)
 
-Step three. Go to the Border section by clicking on it on the design elements wheel above card shapes. Choose a border for your card, if you’d like one. Then do the same with Background options.
+__Step three.__ 
+Go to the Border section by clicking on it on the design elements wheel above card shapes. Choose a border for your card, if you’d like one. Then do the same with Background options.
 
 ![cherami bottle](http://blog.cherami.cards/assets/img/halloween/cherami-halloween-step-two.png#center)
 
 We now have this neat red background that can either symbolize something scary (blood?), or love. 
 
 
-Step four. You can go to the Graphics section to choose from a gallery of template illustrations. Currently Cherami offers only graphics about love, so if your intention is to make someone feel loved on Halloween without scaring them, then certainly choose any of the cute drawings (heart, love elephant, love turtles, etc.).
+__Step four.__ 
+You can go to the Graphics section to choose from a gallery of template illustrations. Currently Cherami offers only graphics about love, so if your intention is to make someone feel loved on Halloween without scaring them, then certainly choose any of the cute drawings (heart, love elephant, love turtles, etc.).
 
 ![cherami bottle](http://blog.cherami.cards/assets/img/halloween/cherami-halloween-step-tree.png#center)
 
-Step five. However, if your goal is to succumb to the spooky Halloween mood (and take someone special with you), then your best option is to click on the Media tab on the wheel. Click on Upload image and then choose from any Halloween-appropriate image you have on your computer. You can find a lot of nice images for any occasion on free photo sharing platforms such as Pixabay, for example.
+__Step five.__
+However, if your goal is to succumb to the spooky Halloween mood (and take someone special with you), then your best option is to click on the Media tab on the wheel. Click on Upload image and then choose from any Halloween-appropriate image you have on your computer. You can find a lot of nice images for any occasion on free photo sharing platforms such as Pixabay, for example.
 
 ![cherami bottle](http://blog.cherami.cards/assets/img/halloween/cherami-halloween-step-four.png#center)
 
-Step six. Finally, add appropriate text by clicking on the Text option and playing with this category’s features. 
+__Step six.__
+Finally, add appropriate text by clicking on the Text option and playing with this category’s features. 
 
 ![cherami bottle](http://blog.cherami.cards/assets/img/halloween/cherami-halloween-step-five.png#center)
 
