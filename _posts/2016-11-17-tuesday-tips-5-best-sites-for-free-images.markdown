@@ -38,23 +38,23 @@ Luckily, there’s always an evaluation squad out there that’s evaluating ever
 Pixabay is this author’s favorite. It has a wide collection of quality, free-for-commercial-use photos that you don’t need to credit, so it’s very convenient for amateur users who don’t know how to cite a photo’s source. However, it’s still the best practice to give credit to original photo creators, but for something like card making, that is not very applicable. 
 
 
-## [Unsplash](https://Unsplash.com/)
+### [Unsplash](https://Unsplash.com/)
 
 
 This platform seems to be gaining popularity among the design community. The photos are contributed by talented photographers (both amateur and professional) and it has a large collection of HD images. 
 
 
-## [Pexels](https://Pexels.com/)
+### [Pexels](https://Pexels.com/)
 
 Similar to Pixabay, Pexels also offers photos that are free for commercial use, no credit required. The choice is a bit more limited that Pixabay’s, but there are many images and you can search for them by checking out the popular search suggestions: yoga, family, dinner, technology, etc. 
 
 
-## [StockSnap](https://StockSnap.io/)
+### [StockSnap](https://StockSnap.io/)
 
 Another cool site that adds hundreds of high resolution photos weekly. They provide photos under Creative Commons CC0 license, which means that you can use and modify their photos without any permissions.
 
 
-## [PicJumbo](https://PicJumbo.com/)
+### [PicJumbo](https://PicJumbo.com/)
 
 
 Last but not least, is another great resources for free images that you can freely download without restrictions. If you’re happy with their service, you can contribute with as much as you can pay, but that is not obligatory. 
