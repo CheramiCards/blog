@@ -2,7 +2,7 @@
 layout: post
 title: Tuesday Tips: 5 Best Sites for Free Images
 date: 2016-11-17
-published: false
+published: true
 ---
 
 More and more scientific studies are digging up evidence and reaching a conclusion that relaxation and stress-free “me time” are very important for achieving a long and healthy life. So, when we think about things that we can do to relax and make ourselves happy, artistic endeavors are often at the top of the list. In the age of the digital, art and design are commonly associated with computers and computer programs. As we’ve seen, Cherami Cards is one such program that can make all types of computer users, from amateurs to professionals, really enjoy a stress-free time and make someone happy in the process.
