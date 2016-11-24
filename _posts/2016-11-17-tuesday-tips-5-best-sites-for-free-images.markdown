@@ -9,10 +9,10 @@ More and more scientific studies are digging up evidence and reaching a conclusi
 
 What’s so special about this particular [online cards maker](https://cherami.cards/)? Here are a couple of things:
 
-It is completely free for unlimited use and all users
-The software is very intuitive and user-friendly
-It can be used on desktop and mobile devices
-It has a great “media upload” option that lets users completely personalize their e-card
+* It is completely free for unlimited use and all users
+* The software is very intuitive and user-friendly
+* It can be used on desktop and mobile devices
+* It has a great “media upload” option that lets users completely personalize their e-card
 
 #### Personalize Your Card By Uploading an Original Photo 
 
