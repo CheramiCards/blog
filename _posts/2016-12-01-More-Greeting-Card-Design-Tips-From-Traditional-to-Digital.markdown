@@ -48,6 +48,6 @@ The videos usually present several characters who sing and dance in a funny way,
 
 Last but not least, we’re recommending our [Cherami Cards](https://cherami.cards/love) as the best way to create a personalized e-card without any prior design expertise or spending any money. It’s a recently launched e-card design platform that offers many neat card making elements. Users can choose from a set of card shapes, then select predefined backgrounds and ribbons, add graphics from our gallery of illustrations or upload any image they want from their computer. The upload option allows them to create a totally unique card. Finally, users can go to the Text option and write nice, loving words to make the card perfect. The card can then be downloaded on a computer and printed out, or shared on social networks, sent via email, etc.
 
-<img src="http://blog.cherami.cards/assets/img/christmas/cherami-jitjab-card.png" style="display: block; margin: 0 auto;" id="center" width="240">
+<img src="http://blog.cherami.cards/assets/img/christmas/cherami-jitjab-card.png" style="display: block; margin: 0 auto;" id="center" width="320">
 
 Hopefully these creative card making apps and methods will help you enjoy this holiday season to the fullest!
