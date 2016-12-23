@@ -4,8 +4,6 @@ title: Make This Christmas Season Memorable with Cherami Cards
 date: 2016-12-23
 published: true
 ---
-# Make This Christmas Season Memorable with Cherami Cards
-
 <img src="http://blog.cherami.cards/assets/img/christmas/cherami-snow-man.png" style=" display: block; margin: 0 auto;" id="center" width="240">
 
 
